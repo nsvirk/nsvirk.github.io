@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
-title: @nsvirk
+
+# global settings
+title: "nsvirk's site"
+description: "about code n life"
